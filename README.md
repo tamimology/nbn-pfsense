@@ -5,7 +5,7 @@
 
 # Table of Contents
 
-***First download the required image file from the pfSense file and follow [those steps] (https://docs.netgate.com/pfsense/en/latest/install/write-memstick.html) to install in on your device.
+***First download the required image file from the pfSense file and follow [those steps](https://docs.netgate.com/pfsense/en/latest/install/write-memstick.html) to install in on your device.***
 
 
 1. <a href="#dynamic-settings">Dynamic Settings</a>
